@@ -1,0 +1,17 @@
+img {
+  height: 20em;
+  width: 30em;
+}
+
+p {
+  text-align: center;
+}
+
+div {
+  display: inline-block;
+  margin-left: 8%;
+}
+
+.mia {
+  margin-left: 31%;
+}
